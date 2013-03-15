@@ -1,0 +1,5 @@
+c:\users\alon\documents\visual studio 2010\Projects\TFSubscriber\TFSubscriber\obj\Debug\ResolveAssemblyReference.cache
+c:\users\alon\documents\visual studio 2010\Projects\TFSubscriber\TFSubscriber\bin\TFSubscriber.dll
+c:\users\alon\documents\visual studio 2010\Projects\TFSubscriber\TFSubscriber\bin\TFSubscriber.pdb
+c:\users\alon\documents\visual studio 2010\Projects\TFSubscriber\TFSubscriber\obj\Debug\TFSubscriber.dll
+c:\users\alon\documents\visual studio 2010\Projects\TFSubscriber\TFSubscriber\obj\Debug\TFSubscriber.pdb

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="TFSubscriber.Service1" CodeBehind="RollupService.svc.cs" %>
